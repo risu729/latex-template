@@ -1,0 +1,21 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  "editor.wordWrap": "on",
+  "editor.renderWhitespace": "all",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+
+  "latex-workshop.intellisense.package.enabled": true,
+  "latex-workshop.latex.outDir": "../out",
+  "latex-workshop.latex.recipe.default": "latexmk (lualatex)",
+
+  "grammarly.files.include": ["**/*.tex", "**/*.md"],
+
+  "github.copilot.enable": {
+    "latex": true,
+    "markdown": true
+  }
+}
